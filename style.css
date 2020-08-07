@@ -1,0 +1,27 @@
+#code
+{
+    margin-top:70px;margin-left:100px;
+    overflow: scroll;
+    background-color:whitesmoke;
+    font-size:14px;
+    width:550px; height: 500px;
+}
+#button
+{
+    background-color: whitesmoke;
+    border: burlywood 1px solid;
+    position: absolute;
+    top: 30px; left: 105px;
+    font-family: Cambria; font-size: 19px;
+    width: 561px; height: 30px;
+}
+#output
+{
+    margin-right:120px; margin-top:70px;
+    overflow: scroll;
+    background-color:lightgray;
+    border: lightgray 2px solid;
+    font-size: 16px;
+    width:550px; height: 500px;
+    float: right;
+}
